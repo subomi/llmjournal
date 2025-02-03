@@ -19,3 +19,11 @@ llmjournal serves two primary objectives:
 [How I program with LLMs](https://crawshaw.io/blog/programming-with-llms)|[David Crawshaw](https://x.com/davidcrawshaw)|Software Engineering|06-01-2025
 [How I Use AI: Meet My Promptly Hired Model Intern](https://lucumr.pocoo.org/2025/1/30/how-i-ai/)|[Armin Ronacher](https://x.com/mitsuhiko)|Software Engineering|30-01-2025
 [How I use LLMs and ChatGPT](https://simonwillison.net/series/using-llms/)|[Simon Willison](https://x.com/simonw)|Software Engineering|19-12-2024
+
+## Get Involved
+- If you’ve written about how you use LLMs in your work, share your post with us!
+- If you come across valuable articles or blog posts, contribute by submitting them to the repository.
+- If you’re interested in documenting your journey with LLMs, consider writing and sharing your insights.
+
+## License
+This project is released under the [MIT License](https://github.com/subomi/llmjournal/blob/main/LICENSE).
