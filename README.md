@@ -10,8 +10,8 @@ These curated blog posts document use cases, essential tools, and workflows shar
 ## Goals
 llmjournal serves two primary objectives:
 
-- Curate Insights: Aggregate and organize posts from across the internet that showcase how engineers and professionals use LLMs to optimize their work.
-- Encourage Contributions: Inspire more people to share their experiences and insights on using LLMs to 10x their output.
+- **Curate Insights**: Aggregate and organize posts from across the internet that showcase how engineers and professionals use LLMs to optimize their work.
+- **Encourage Contributions**: Inspire more people to share their experiences and insights on using LLMs to 10x their output.
 
 ## Posts
 |Blog Post|Author|Profession|Publication Date|
