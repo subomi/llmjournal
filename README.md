@@ -7,6 +7,12 @@ AI and LLMs are the future—there’s no turning back. We are experiencing a pr
 This curiosity has led me to actively seek out and collect posts about how others are leveraging LLMs in their work. My goal with llmjournal is to gather these insights in one place, creating a central reference for anyone interested in real-life applications of LLMs. 
 These curated blog posts document use cases, essential tools, and workflows shared by individuals delibrating using LLMs at work.
 
+## Goals
+llmjournal serves two primary objectives:
+
+- Curate Insights: Aggregate and organize posts from across the internet that showcase how engineers and professionals use LLMs to optimize their work.
+- Encourage Contributions: Inspire more people to share their experiences and insights on using LLMs to 10x their output.
+
 ## Posts
 |Blog Post|Author|Profession|Publication Date|
 |:-------|:----------|:----------:|:----------:|
